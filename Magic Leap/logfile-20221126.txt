@@ -1,0 +1,12 @@
+*** Unity.exe pid 17468 started logging at Sat Nov 26 16:29:37 2022
+162937.681 <Unity.exe:17468~ZIFHandTrackingSparseDevice-7ab4088f-7b66-4432-535b-9b5debe09a86> I [HandTrackingManifestProcessor.cpp:58] Loading manifest D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data/HandTrackingKeypoints.json
+162937.682 <Unity.exe:17468~ZIFHandTrackingSparseDevice-7ab4088f-7b66-4432-535b-9b5debe09a86> I [HandTrackingManifestProcessor.cpp:82] Finished loading manifest D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data/HandTrackingKeypoints.json
+163735.095 <Unity.exe:17468~ZIFProcessServerEvents> ZIF W [zi_ext_device_handle_impl.inl:151] PermissionsSparseDevice stopped
+163735.196 <Unity.exe:17468~ZIFProcessServerEvents> ZIF W [zi_ext_device_handle_impl.inl:151] SystemEventSparseDevice stopped
+163735.929 <Unity.exe:17468~ZIFProcessServerEvents> ZIF W [zi_ext_device_handle_impl.inl:151] PeripheralKeyMouseSparseDevice stopped
+163736.446 <Unity.exe:17468~ZIFProcessServerEvents> ZIF W [zi_virtual_room_impl.cpp:322] SimulatorManagerSparseDevice stopped
+163736.446 <Unity.exe:17468~ZIFProcessServerEvents> ZIF W [zi_ext_device_handle_impl.inl:151] SimulatorManagerSparseDevice stopped
+163736.446 <Unity.exe:17468~ZIFProcessServerEvents> ZIF W [zi_virtual_room_impl.cpp:348] SimulatorPeripheralSparseDevice stopped
+163736.893 <Unity.exe:17468~ZIPeripheral-7ab4088f-7b66-4432-535b-9b5debe09a86> V [SparseDevice.cpp:1522] (ZIPeripheral-7ab4088f-7b66-4432-535b-9b5debe09a86) Zero Iteration Server stopping
+163736.894 <Unity.exe:17468~ZISimulatorPeripheral-7ab4088f-7b66-4432-535b-9b5debe09a86> V [SparseDevice.cpp:1522] (ZISimulatorPeripheral-7ab4088f-7b66-4432-535b-9b5debe09a86) Zero Iteration Server stopping
+163737.788 <Unity.exe:17468~ZIFEyeTrackingSparseDevice-7ab4088f-7b66-4432-535b-9b5debe09a86> V [SparseDevice.cpp:1522] (ZIFEyeTrackingSparseDevice-7ab4088f-7b66-4432-535b-9b5debe09a86) Zero Iteration Server stopping

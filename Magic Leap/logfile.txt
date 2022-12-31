@@ -1,0 +1,127 @@
+*** Unity.exe pid 21812 started logging at Thu Dec  1 01:22:48 2022
+012248.208 <Unity.exe:21812~ZIFHandTrackingSparseDevice-035674fd-40f1-12fc-f007-a23ccbd952ff> I [HandTrackingManifestProcessor.cpp:58] Loading manifest D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data/HandTrackingKeypoints.json
+012248.215 <Unity.exe:21812~ZIFHandTrackingSparseDevice-035674fd-40f1-12fc-f007-a23ccbd952ff> I [HandTrackingManifestProcessor.cpp:82] Finished loading manifest D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data/HandTrackingKeypoints.json
+012326.679 <Unity.exe:21812~ZIFHandTrackingSparseDevice-035674fd-40f1-12fc-f007-a23ccbd952ff> I [HandTrackingManifestProcessor.cpp:58] Loading manifest D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data/HandTrackingKeypoints.json
+012326.679 <Unity.exe:21812~ZIFHandTrackingSparseDevice-035674fd-40f1-12fc-f007-a23ccbd952ff> I [HandTrackingManifestProcessor.cpp:82] Finished loading manifest D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data/HandTrackingKeypoints.json
+012435.166 <Unity.exe:21812~ZIFHandTrackingSparseDevice-87bca3a4-5919-5f4a-35a7-f5528ecfb972> I [HandTrackingManifestProcessor.cpp:58] Loading manifest D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data/HandTrackingKeypoints.json
+012435.167 <Unity.exe:21812~ZIFHandTrackingSparseDevice-87bca3a4-5919-5f4a-35a7-f5528ecfb972> I [HandTrackingManifestProcessor.cpp:82] Finished loading manifest D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data/HandTrackingKeypoints.json
+012954.597 <Unity.exe:21812~ZIFHandTrackingSparseDevice-ee52d7f4-e445-4814-3e41-52fae3e4ed68> I [HandTrackingManifestProcessor.cpp:58] Loading manifest D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data/HandTrackingKeypoints.json
+012954.598 <Unity.exe:21812~ZIFHandTrackingSparseDevice-ee52d7f4-e445-4814-3e41-52fae3e4ed68> I [HandTrackingManifestProcessor.cpp:82] Finished loading manifest D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data/HandTrackingKeypoints.json
+013103.882 <Unity.exe:21812~ZIFHandTrackingSparseDevice-6971f0f9-a100-bd2f-ade8-98eb7345a37f> I [HandTrackingManifestProcessor.cpp:58] Loading manifest D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data/HandTrackingKeypoints.json
+*** Unity.exe pid 9740 started logging at Thu Dec  1 01:32:48 2022
+013248.639 <Unity.exe:9740~3460> ZIF E [zi_environment_impl.cpp:333] ZI runtime (detected relative to ZIF) directory does not have 'bin' folder (C:\Program Files\Unity\Hub\Editor\2022.2.0b16\)
+013248.639 <Unity.exe:9740~3460> ZIF E [zi_app_impl.cpp:74] Failed to locate ZI runtime
+013250.599 <Unity.exe:9740~3460> ZIF E [zi_app_impl.cpp:74] Failed to locate ZI runtime (repeated 1 time)
+013255.519 <Unity.exe:9740~ZIFHandTrackingSparseDevice-4ea1c8d1-a85e-ca4c-0190-8c1ed9c5a141> I [HandTrackingManifestProcessor.cpp:58] Loading manifest D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data/HandTrackingKeypoints.json
+013255.520 <Unity.exe:9740~ZIFHandTrackingSparseDevice-4ea1c8d1-a85e-ca4c-0190-8c1ed9c5a141> I [HandTrackingManifestProcessor.cpp:82] Finished loading manifest D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data/HandTrackingKeypoints.json
+013403.781 <Unity.exe:9740~4d54> ZIF W [zi_ext_device_handle_impl.inl:151] PermissionsSparseDevice stopped
+013403.890 <Unity.exe:9740~4d54> ZIF W [zi_ext_device_handle_impl.inl:151] SystemEventSparseDevice stopped
+013404.986 <Unity.exe:9740~4d54> ZIF W [zi_ext_device_handle_impl.inl:151] PeripheralKeyMouseSparseDevice stopped
+013405.614 <Unity.exe:9740~4d54> ZIF W [zi_virtual_room_impl.cpp:322] SimulatorManagerSparseDevice stopped
+013405.615 <Unity.exe:9740~4d54> ZIF W [zi_ext_device_handle_impl.inl:151] SimulatorManagerSparseDevice stopped
+013405.715 <Unity.exe:9740~4d54> ZIF W [zi_virtual_room_impl.cpp:348] SimulatorPeripheralSparseDevice stopped
+013411.147 <Unity.exe:9740~3460> ZIF E [zi_handle_manager_impl.cpp:454] cannot map handle 17 to server (handle is stale (either fully HandleReleased() or allocated from a different type))
+*** ZIServer.exe pid 11948 started logging at Thu Dec  1 01:34:14 2022
+*** ZIPeripheral.exe pid 1176 started logging at Thu Dec  1 01:34:18 2022
+013416.519 <ZIPeripheral.exe:1176~254c> I [PeripheralApplication.cpp:63] Peripheral starting
+013418.869 <ZIPeripheral.exe:1176~PeripheralHandTrackingSparseDevice> I [HandTrackingManifestProcessor.cpp:58] Loading manifest D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data/HandTrackingKeypoints.json
+*** ZISimulator.exe pid 24064 started logging at Thu Dec  1 01:34:20 2022
+013417.364 <ZISimulator.exe:24064~5cec> I [SimulatorApp.cpp:128] Simulator starting
+013420.009 <ZISimulator.exe:24064~SimulatorHandTrackingSparseDevice> I [HandTrackingManifestProcessor.cpp:58] Loading manifest D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data/HandTrackingKeypoints.json
+013418.962 <ZIPeripheral.exe:1176~PeripheralHandTrackingSparseDevice> I [HandTrackingManifestProcessor.cpp:82] Finished loading manifest D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data/HandTrackingKeypoints.json
+013421.488 <ZIPeripheral.exe:1176~254c> I [PeripheralApplication.cpp:466] Found matching controller configuration manifest ControllerConfigurations/Windows/DefaultKeyMouseMappings.json for device Peripheral - Key/Mouse
+013420.013 <ZISimulator.exe:24064~SimulatorHandTrackingSparseDevice> I [HandTrackingManifestProcessor.cpp:82] Finished loading manifest D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data/HandTrackingKeypoints.json
+013425.657 <ZISimulator.exe:24064~5cec> I [ViewportRender.cpp:120] Initializing viewport renderer's gfx system
+013425.826 <ZISimulator.exe:24064~5cec> I [ViewportRender.cpp:169] OpenGL Version: 4.1.0 NVIDIA 516.94
+013426.758 <ZISimulator.exe:24064~5cec> I [SimulatorApp.cpp:420] Computing initial framebuffer scale to: 1.000000
+013411.147 <Unity.exe:9740~3460> ZIF E [zi_session_impl.cpp:105] invalid null parameter server_
+013429.768 <Unity.exe:9740~ZIFHandTrackingSparseDevice-0a77e6b2-1f12-a93d-f5b5-e9a822eb516a> I [HandTrackingManifestProcessor.cpp:58] Loading manifest D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data/HandTrackingKeypoints.json
+013435.053 <ZISimulator.exe:24064~59ec> I [RoomLoader.cpp:114] Loading room archive D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data\VirtualRooms\ExampleRooms\OfficeSmall.room asynchronously
+013435.053 <ZISimulator.exe:24064~59ec> I [RoomLoader.cpp:116] server indicates loading in progress
+013435.054 <ZISimulator.exe:24064~59ec> I [RoomLoader.cpp:247] Extracted room path C:\Users\yeren\AppData\Local\Temp\zi\c7f8e5ce320d5237f1997851303fffc5e6d8c47748755163bd6b2bd9b643f5a9\ already exists for room archive, skipping unpack
+013435.077 <ZISimulator.exe:24064~59ec> I [SessionLoader.cpp:182] Loading Session C:\Users\yeren\AppData\Local\Temp\zi\c7f8e5ce320d5237f1997851303fffc5e6d8c47748755163bd6b2bd9b643f5a9\/RoomInfo.json
+013436.000 <ZISimulator.exe:24064~59ec> I [SessionLoader.cpp:362] Finished loading session C:\Users\yeren\AppData\Local\Temp\zi\c7f8e5ce320d5237f1997851303fffc5e6d8c47748755163bd6b2bd9b643f5a9\/RoomInfo.json
+*** ZISystem.exe pid 16116 started logging at Thu Dec  1 01:34:53 2022
+013416.010 <ZISystem.exe:16116~2e00> I [ZISystemApplication.cpp:61] System starting
+013453.257 <ZISystem.exe:16116~PermissionsSparseDevice> I [PermissionsSparseDevice.cpp:459] Initialized permissions from file D:\MagicLeap\Packet Manager\mlsdk\v1.1.0-dev1/data/ml_permissions.json
+013436.001 <ZISimulator.exe:24064~59ec> I [RoomLoader.cpp:122] Finished loading room archive D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data\VirtualRooms\ExampleRooms\OfficeSmall.room
+013436.033 <ZISimulator.exe:24064~4b0> E [BoundaryData.cpp:121] Failed to sort boundary edges, not enough edges
+013459.235 <ZISimulator.exe:24064~1010> I [RoomLoader.cpp:114] Loading room archive D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data\VirtualRooms\ExampleRooms\OfficeSmall.room asynchronously
+013459.235 <ZISimulator.exe:24064~1010> I [RoomLoader.cpp:116] server indicates loading in progress
+013459.235 <ZISimulator.exe:24064~1010> I [RoomLoader.cpp:247] Extracted room path C:\Users\yeren\AppData\Local\Temp\zi\c7f8e5ce320d5237f1997851303fffc5e6d8c47748755163bd6b2bd9b643f5a9\ already exists for room archive, skipping unpack
+013459.238 <ZISimulator.exe:24064~1010> I [SessionLoader.cpp:182] Loading Session C:\Users\yeren\AppData\Local\Temp\zi\c7f8e5ce320d5237f1997851303fffc5e6d8c47748755163bd6b2bd9b643f5a9\/RoomInfo.json
+013459.997 <ZISimulator.exe:24064~1010> I [SessionLoader.cpp:362] Finished loading session C:\Users\yeren\AppData\Local\Temp\zi\c7f8e5ce320d5237f1997851303fffc5e6d8c47748755163bd6b2bd9b643f5a9\/RoomInfo.json
+013429.768 <Unity.exe:9740~ZIFHandTrackingSparseDevice-0a77e6b2-1f12-a93d-f5b5-e9a822eb516a> I [HandTrackingManifestProcessor.cpp:82] Finished loading manifest D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data/HandTrackingKeypoints.json
+013520.853 <Unity.exe:9740~ZIFHandTrackingSparseDevice-0a77e6b2-1f12-a93d-f5b5-e9a822eb516a> I [HandTrackingManifestProcessor.cpp:58] Loading manifest D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data/HandTrackingKeypoints.json
+013414.952 <ZIServer.exe:11948~369c> I [VirtualDeviceServerApplication.cpp:133] Zero Iteration Server Version: 3.4 (built Nov  2 2022), Protocol: 15
+013414.986 <ZIServer.exe:11948~369c> I [VirtualDeviceServerApplication.cpp:118] Server 'default' [11948] running at SOCKET:localhost:59584 on Windows 10.0 Build 19041.2251
+013526.044 <ZIServer.exe:11948~369c> I [VDSMLSDKApplicationCommandHandler.cpp:124] registering MLSDK application 'Unity.exe' () for pid = 9740 (9740)
+013459.997 <ZISimulator.exe:24064~1010> I [RoomLoader.cpp:122] Finished loading room archive D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data\VirtualRooms\ExampleRooms\OfficeSmall.room
+013529.380 <ZISimulator.exe:24064~SimulatorGraphicsViewSparseDevice> I [GraphicsCommandHandler.cpp:68] GraphicsCommandHandler::OnCreateClient
+013520.854 <Unity.exe:9740~ZIFHandTrackingSparseDevice-0a77e6b2-1f12-a93d-f5b5-e9a822eb516a> I [HandTrackingManifestProcessor.cpp:82] Finished loading manifest D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data/HandTrackingKeypoints.json
+013555.166 <Unity.exe:9740~ZIFProcessServerEvents> ZIF W [zi_ext_device_handle_impl.inl:151] PermissionsSparseDevice stopped
+013555.166 <Unity.exe:9740~ZIFProcessServerEvents> ZIF W [zi_ext_device_handle_impl.inl:151] SystemEventSparseDevice stopped
+013556.431 <Unity.exe:9740~ZIFProcessServerEvents> ZIF W [zi_ext_device_handle_impl.inl:151] PeripheralKeyMouseSparseDevice stopped
+013556.618 <ZISimulator.exe:24064~5cec> I [ViewportRender.cpp:217] Shutting down viewport renderer's gfx system
+013556.840 <Unity.exe:9740~ZIFProcessServerEvents> ZIF W [zi_virtual_room_impl.cpp:322] SimulatorManagerSparseDevice stopped
+013556.840 <Unity.exe:9740~ZIFProcessServerEvents> ZIF W [zi_ext_device_handle_impl.inl:151] SimulatorManagerSparseDevice stopped
+013556.941 <Unity.exe:9740~ZIFProcessServerEvents> ZIF W [zi_virtual_room_impl.cpp:348] SimulatorPeripheralSparseDevice stopped
+013556.976 <ZISimulator.exe:24064~5cec> E [GLPlatformUtilsWindows.cpp:94] wglMakeCurrent failed 6 0000000000000000 0000000000000000
+013557.125 <Unity.exe:9740~ZIPeripheral-0a77e6b2-1f12-a93d-f5b5-e9a822eb516a> V [SparseDevice.cpp:1522] (ZIPeripheral-0a77e6b2-1f12-a93d-f5b5-e9a822eb516a) Zero Iteration Server stopping
+013557.130 <Unity.exe:9740~ZISimulatorPeripheral-0a77e6b2-1f12-a93d-f5b5-e9a822eb516a> V [SparseDevice.cpp:1522] (ZISimulatorPeripheral-0a77e6b2-1f12-a93d-f5b5-e9a822eb516a) Zero Iteration Server stopping
+013557.360 <Unity.exe:9740~ZIFEyeTrackingSparseDevice-0a77e6b2-1f12-a93d-f5b5-e9a822eb516a> V [SparseDevice.cpp:1522] (ZIFEyeTrackingSparseDevice-0a77e6b2-1f12-a93d-f5b5-e9a822eb516a) Zero Iteration Server stopping
+013557.363 <Unity.exe:9740~ZIFHandTrackingSparseDevice-0a77e6b2-1f12-a93d-f5b5-e9a822eb516a> V [SparseDevice.cpp:1522] (ZIFHandTrackingSparseDevice-0a77e6b2-1f12-a93d-f5b5-e9a822eb516a) Zero Iteration Server stopping
+013557.369 <Unity.exe:9740~ZIFInputSparseDevice-0a77e6b2-1f12-a93d-f5b5-e9a822eb516a> V [SparseDevice.cpp:1522] (ZIFInputSparseDevice-0a77e6b2-1f12-a93d-f5b5-e9a822eb516a) Zero Iteration Server stopping
+013557.379 <Unity.exe:9740~ZIImageTrackingClient-0a77e6b2-1f12-a93d-f5b5-e9a822eb516a> V [SparseDevice.cpp:1522] (ZIImageTrackingClient-0a77e6b2-1f12-a93d-f5b5-e9a822eb516a) Zero Iteration Server stopping
+013557.679 <Unity.exe:9740~ZIHeadTracking-0a77e6b2-1f12-a93d-f5b5-e9a822eb516a> V [SparseDevice.cpp:1522] (ZIHeadTracking-0a77e6b2-1f12-a93d-f5b5-e9a822eb516a) Zero Iteration Server stopping
+013559.136 <ZIServer.exe:11948~369c> I [VirtualDeviceServerApplication.cpp:168] Zero Iteration Server [11948] shutting down
+*** ZIServer.exe pid 23488 started logging at Thu Dec  1 01:36:34 2022
+*** ZIPeripheral.exe pid 7576 started logging at Thu Dec  1 01:36:37 2022
+013635.923 <ZIPeripheral.exe:7576~63e4> I [PeripheralApplication.cpp:63] Peripheral starting
+013637.814 <ZIPeripheral.exe:7576~PeripheralHandTrackingSparseDevice> I [HandTrackingManifestProcessor.cpp:58] Loading manifest D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data/HandTrackingKeypoints.json
+*** ZISimulator.exe pid 17356 started logging at Thu Dec  1 01:36:39 2022
+013636.391 <ZISimulator.exe:17356~2c84> I [SimulatorApp.cpp:128] Simulator starting
+013639.266 <ZISimulator.exe:17356~SimulatorHandTrackingSparseDevice> I [HandTrackingManifestProcessor.cpp:58] Loading manifest D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data/HandTrackingKeypoints.json
+013637.819 <ZIPeripheral.exe:7576~PeripheralHandTrackingSparseDevice> I [HandTrackingManifestProcessor.cpp:82] Finished loading manifest D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data/HandTrackingKeypoints.json
+013640.388 <ZIPeripheral.exe:7576~63e4> I [PeripheralApplication.cpp:466] Found matching controller configuration manifest ControllerConfigurations/Windows/DefaultKeyMouseMappings.json for device Peripheral - Key/Mouse
+013639.271 <ZISimulator.exe:17356~SimulatorHandTrackingSparseDevice> I [HandTrackingManifestProcessor.cpp:82] Finished loading manifest D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data/HandTrackingKeypoints.json
+013644.873 <ZISimulator.exe:17356~2c84> I [ViewportRender.cpp:120] Initializing viewport renderer's gfx system
+013645.044 <ZISimulator.exe:17356~2c84> I [ViewportRender.cpp:169] OpenGL Version: 4.1.0 NVIDIA 516.94
+013645.981 <ZISimulator.exe:17356~2c84> I [SimulatorApp.cpp:420] Computing initial framebuffer scale to: 1.000000
+013648.854 <Unity.exe:9740~ZIFHandTrackingSparseDevice-d2eedf7f-16bb-cafc-8249-8dbece5fe030> I [HandTrackingManifestProcessor.cpp:58] Loading manifest D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data/HandTrackingKeypoints.json
+013654.045 <ZISimulator.exe:17356~61b8> I [RoomLoader.cpp:114] Loading room archive D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data\VirtualRooms\ExampleRooms\OfficeSmall.room asynchronously
+013654.045 <ZISimulator.exe:17356~61b8> I [RoomLoader.cpp:116] server indicates loading in progress
+013654.046 <ZISimulator.exe:17356~61b8> I [RoomLoader.cpp:247] Extracted room path C:\Users\yeren\AppData\Local\Temp\zi\c7f8e5ce320d5237f1997851303fffc5e6d8c47748755163bd6b2bd9b643f5a9\ already exists for room archive, skipping unpack
+013654.072 <ZISimulator.exe:17356~61b8> I [SessionLoader.cpp:182] Loading Session C:\Users\yeren\AppData\Local\Temp\zi\c7f8e5ce320d5237f1997851303fffc5e6d8c47748755163bd6b2bd9b643f5a9\/RoomInfo.json
+013655.062 <ZISimulator.exe:17356~61b8> I [SessionLoader.cpp:362] Finished loading session C:\Users\yeren\AppData\Local\Temp\zi\c7f8e5ce320d5237f1997851303fffc5e6d8c47748755163bd6b2bd9b643f5a9\/RoomInfo.json
+*** ZISystem.exe pid 12004 started logging at Thu Dec  1 01:37:00 2022
+013635.278 <ZISystem.exe:12004~46f8> I [ZISystemApplication.cpp:61] System starting
+013700.393 <ZISystem.exe:12004~PermissionsSparseDevice> I [PermissionsSparseDevice.cpp:459] Initialized permissions from file D:\MagicLeap\Packet Manager\mlsdk\v1.1.0-dev1/data/ml_permissions.json
+013648.859 <Unity.exe:9740~ZIFHandTrackingSparseDevice-d2eedf7f-16bb-cafc-8249-8dbece5fe030> I [HandTrackingManifestProcessor.cpp:82] Finished loading manifest D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data/HandTrackingKeypoints.json
+013932.727 <Unity.exe:9740~ZIFHandTrackingSparseDevice-d2eedf7f-16bb-cafc-8249-8dbece5fe030> I [HandTrackingManifestProcessor.cpp:58] Loading manifest D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data/HandTrackingKeypoints.json
+013655.063 <ZISimulator.exe:17356~61b8> I [RoomLoader.cpp:122] Finished loading room archive D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data\VirtualRooms\ExampleRooms\OfficeSmall.room
+013655.086 <ZISimulator.exe:17356~51d8> E [BoundaryData.cpp:121] Failed to sort boundary edges, not enough edges
+013842.551 <ZISimulator.exe:17356~5a54> E [BoundaryData.cpp:121] Failed to sort boundary edges, not enough edges (repeated 47 times)
+013932.727 <Unity.exe:9740~ZIFHandTrackingSparseDevice-d2eedf7f-16bb-cafc-8249-8dbece5fe030> I [HandTrackingManifestProcessor.cpp:82] Finished loading manifest D:\MagicLeap\Packet Manager\tools\zi\v3.4.0.20221102\data/HandTrackingKeypoints.json
+013942.043 <Unity.exe:9740~ZIFProcessServerEvents> ZIF E [MessageUtils.h:265] got protocol error from ml.sd.GetConfigurationPropertyInfo: unhandled request: sparse device application '' is shutting down, command type: ml.sd.GetConfigurationPropertyInfo
+013940.671 <ZISimulator.exe:17356~SimulatorGraphicsViewSparseDevice> I [GraphicsCommandHandler.cpp:68] GraphicsCommandHandler::OnCreateClient
+014008.748 <ZISimulator.exe:17356~b5c> E [BoundaryData.cpp:121] Failed to sort boundary edges, not enough edges
+014256.534 <Unity.exe:9740~ZIFProcessServerEvents> ZIF W [zi_ext_device_handle_impl.inl:151] PermissionsSparseDevice stopped
+014256.534 <Unity.exe:9740~ZIFProcessServerEvents> ZIF W [zi_ext_device_handle_impl.inl:151] SystemEventSparseDevice stopped
+014257.563 <Unity.exe:9740~ZIFProcessServerEvents> ZIF W [zi_ext_device_handle_impl.inl:151] PeripheralKeyMouseSparseDevice stopped
+014034.807 <ZISimulator.exe:17356~2bac> E [BoundaryData.cpp:121] Failed to sort boundary edges, not enough edges (repeated 6 times)
+014257.866 <Unity.exe:9740~ZIFProcessServerEvents> ZIF W [zi_virtual_room_impl.cpp:322] SimulatorManagerSparseDevice stopped
+014257.866 <Unity.exe:9740~ZIFProcessServerEvents> ZIF W [zi_ext_device_handle_impl.inl:151] SimulatorManagerSparseDevice stopped
+014257.967 <Unity.exe:9740~ZIFProcessServerEvents> ZIF W [zi_virtual_room_impl.cpp:348] SimulatorPeripheralSparseDevice stopped
+014257.674 <ZISimulator.exe:17356~2c84> I [ViewportRender.cpp:217] Shutting down viewport renderer's gfx system
+014258.069 <ZISimulator.exe:17356~2c84> E [GLPlatformUtilsWindows.cpp:94] wglMakeCurrent failed 6 0000000000000000 0000000000000000
+014258.208 <Unity.exe:9740~ZISimulatorPeripheral-d2eedf7f-16bb-cafc-8249-8dbece5fe030> V [SparseDevice.cpp:1522] (ZISimulatorPeripheral-d2eedf7f-16bb-cafc-8249-8dbece5fe030) Zero Iteration Server stopping
+014258.210 <Unity.exe:9740~ZIPeripheral-d2eedf7f-16bb-cafc-8249-8dbece5fe030> V [SparseDevice.cpp:1522] (ZIPeripheral-d2eedf7f-16bb-cafc-8249-8dbece5fe030) Zero Iteration Server stopping
+014258.474 <Unity.exe:9740~ZIFInputSparseDevice-d2eedf7f-16bb-cafc-8249-8dbece5fe030> V [SparseDevice.cpp:1522] (ZIFInputSparseDevice-d2eedf7f-16bb-cafc-8249-8dbece5fe030) Zero Iteration Server stopping
+014258.483 <Unity.exe:9740~ZIFHandTrackingSparseDevice-d2eedf7f-16bb-cafc-8249-8dbece5fe030> V [SparseDevice.cpp:1522] (ZIFHandTrackingSparseDevice-d2eedf7f-16bb-cafc-8249-8dbece5fe030) Zero Iteration Server stopping
+014258.504 <Unity.exe:9740~ZIFEyeTrackingSparseDevice-d2eedf7f-16bb-cafc-8249-8dbece5fe030> V [SparseDevice.cpp:1522] (ZIFEyeTrackingSparseDevice-d2eedf7f-16bb-cafc-8249-8dbece5fe030) Zero Iteration Server stopping
+014258.505 <Unity.exe:9740~ZIImageTrackingClient-d2eedf7f-16bb-cafc-8249-8dbece5fe030> V [SparseDevice.cpp:1522] (ZIImageTrackingClient-d2eedf7f-16bb-cafc-8249-8dbece5fe030) Zero Iteration Server stopping
+014258.896 <Unity.exe:9740~ZIHeadTracking-d2eedf7f-16bb-cafc-8249-8dbece5fe030> V [SparseDevice.cpp:1522] (ZIHeadTracking-d2eedf7f-16bb-cafc-8249-8dbece5fe030) Zero Iteration Server stopping
+013634.468 <ZIServer.exe:23488~3cc8> I [VirtualDeviceServerApplication.cpp:133] Zero Iteration Server Version: 3.4 (built Nov  2 2022), Protocol: 15
+013634.499 <ZIServer.exe:23488~3cc8> I [VirtualDeviceServerApplication.cpp:118] Server 'default' [23488] running at SOCKET:localhost:61931 on Windows 10.0 Build 19041.2251
+014300.213 <ZIServer.exe:23488~3cc8> I [VirtualDeviceServerApplication.cpp:168] Zero Iteration Server [23488] shutting down

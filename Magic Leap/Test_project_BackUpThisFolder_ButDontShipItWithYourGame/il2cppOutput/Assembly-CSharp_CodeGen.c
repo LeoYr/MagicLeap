@@ -1,0 +1,101 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_IsEditorOnly_m59E10A16B0BDEA496377805E39C3D90B1E2C4815 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_Get_mDAD527916A4779DB4ACAFEADC3BA7372671FA647 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes__ctor_mE2C680837D47039E3F06032AA8C63FEDB7E783A5 (void);
+extern void SimpleCameraController_Start_mE7DF3450479ECFC2347EFBAA8392BCAB460A69F7 (void);
+extern void SimpleCameraController_OnEnable_mD5E060BED4E0C5C0D40AA39C0DA7AE44CAAB217D (void);
+extern void SimpleCameraController_GetInputTranslationDirection_m62C42A7966EF22CB95BB847225D2BE2441A3CE0C (void);
+extern void SimpleCameraController_Update_mDB9A4DA6CC1C82A704D3575DC196F44F17E5E0B5 (void);
+extern void SimpleCameraController_GetBoostFactor_m6828544561E83441B588B1355AE356F5B5395861 (void);
+extern void SimpleCameraController_GetInputLookRotation_m46DE00C71926EA4D1119C5782919A7F8776FE41A (void);
+extern void SimpleCameraController_IsBoostPressed_mE3A2FFC52232D7F5550225F264B4F4D96E367E05 (void);
+extern void SimpleCameraController_IsEscapePressed_m0DBC5636F93C47F42E2957E71065F0F65FF9684E (void);
+extern void SimpleCameraController_IsCameraRotationAllowed_m0FC40B7FCA40A587E155985A0C0F22B992635FA6 (void);
+extern void SimpleCameraController_IsRightMouseButtonDown_m452E5582AC0DF2967F4C2AF74DEDD51533BE9E0F (void);
+extern void SimpleCameraController_IsRightMouseButtonUp_m6B7098D227CF6C336694BAE3CD689A712DF1A9D9 (void);
+extern void SimpleCameraController__ctor_m224B705F449A3DA440346B08A6237479A91D7136 (void);
+extern void CameraState_SetFromTransform_m3A7302F4586F37F7C78EDA2F0C476BAA22672360 (void);
+extern void CameraState_Translate_m561F6D92E99F13444FBAC8D5B1A40762A26219F9 (void);
+extern void CameraState_LerpTowards_mFDC0E1CA19B6791CDB6EE8AC262944DC1143FCF9 (void);
+extern void CameraState_UpdateTransform_m03320D760E52E809272776B58C7E741B2EE1D73E (void);
+extern void CameraState__ctor_m33568E59E39C953BDE6CD28D35A34BE52AE25504 (void);
+static Il2CppMethodPointer s_methodPointers[20] = 
+{
+	UnitySourceGeneratedAssemblyMonoScriptTypes_IsEditorOnly_m59E10A16B0BDEA496377805E39C3D90B1E2C4815,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_Get_mDAD527916A4779DB4ACAFEADC3BA7372671FA647,
+	UnitySourceGeneratedAssemblyMonoScriptTypes__ctor_mE2C680837D47039E3F06032AA8C63FEDB7E783A5,
+	SimpleCameraController_Start_mE7DF3450479ECFC2347EFBAA8392BCAB460A69F7,
+	SimpleCameraController_OnEnable_mD5E060BED4E0C5C0D40AA39C0DA7AE44CAAB217D,
+	SimpleCameraController_GetInputTranslationDirection_m62C42A7966EF22CB95BB847225D2BE2441A3CE0C,
+	SimpleCameraController_Update_mDB9A4DA6CC1C82A704D3575DC196F44F17E5E0B5,
+	SimpleCameraController_GetBoostFactor_m6828544561E83441B588B1355AE356F5B5395861,
+	SimpleCameraController_GetInputLookRotation_m46DE00C71926EA4D1119C5782919A7F8776FE41A,
+	SimpleCameraController_IsBoostPressed_mE3A2FFC52232D7F5550225F264B4F4D96E367E05,
+	SimpleCameraController_IsEscapePressed_m0DBC5636F93C47F42E2957E71065F0F65FF9684E,
+	SimpleCameraController_IsCameraRotationAllowed_m0FC40B7FCA40A587E155985A0C0F22B992635FA6,
+	SimpleCameraController_IsRightMouseButtonDown_m452E5582AC0DF2967F4C2AF74DEDD51533BE9E0F,
+	SimpleCameraController_IsRightMouseButtonUp_m6B7098D227CF6C336694BAE3CD689A712DF1A9D9,
+	SimpleCameraController__ctor_m224B705F449A3DA440346B08A6237479A91D7136,
+	CameraState_SetFromTransform_m3A7302F4586F37F7C78EDA2F0C476BAA22672360,
+	CameraState_Translate_m561F6D92E99F13444FBAC8D5B1A40762A26219F9,
+	CameraState_LerpTowards_mFDC0E1CA19B6791CDB6EE8AC262944DC1143FCF9,
+	CameraState_UpdateTransform_m03320D760E52E809272776B58C7E741B2EE1D73E,
+	CameraState__ctor_m33568E59E39C953BDE6CD28D35A34BE52AE25504,
+};
+static const int32_t s_InvokerIndices[20] = 
+{
+	16311,
+	16353,
+	9394,
+	9394,
+	9394,
+	9384,
+	9394,
+	9326,
+	9382,
+	9132,
+	9132,
+	9132,
+	9132,
+	9132,
+	9394,
+	7285,
+	7395,
+	1964,
+	7285,
+	9394,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	20,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
